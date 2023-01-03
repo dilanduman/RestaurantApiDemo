@@ -1,4 +1,4 @@
-package com.alan.kotlinjson1
+package com.alan.kotlinjson
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4

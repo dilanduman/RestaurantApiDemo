@@ -1,4 +1,4 @@
-package com.alan.kotlinjson1
+package com.alan.kotlinjson
 
 class RestaurantsViewModel {
 

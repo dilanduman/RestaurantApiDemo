@@ -1,9 +1,9 @@
-package com.alan.kotlinjson1
+package com.alan.kotlinjson
 
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
-import com.alan.kotlinjson1.api.model.ApiResponse
-import com.alan.kotlinjson1.api.model.Restaurant
+import com.alan.kotlinjson.api.model.ApiResponse
+import com.alan.kotlinjson.api.model.Restaurant
 import retrofit2.Response
 
 class MainActivity : AppCompatActivity() {
@@ -30,7 +30,7 @@ class MainActivity : AppCompatActivity() {
 
 
                         for (data: Restaurant in restaurantData!!) {
-                            println(restaurantData)
+                            println("restaurantData: $restaurantData")
                         }
 
                     }

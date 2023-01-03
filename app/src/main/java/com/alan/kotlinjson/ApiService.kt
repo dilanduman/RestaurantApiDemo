@@ -1,8 +1,6 @@
-package com.alan.kotlinjson1
+package com.alan.kotlinjson
 
-import Restaurant
-import com.alan.kotlinjson1.api.model.ApiResponse
-
+import com.alan.kotlinjson.api.model.ApiResponse
 import retrofit2.http.GET
 
 interface ApiService {
