@@ -1,4 +1,4 @@
-package com.alan.kotlinjson1.api.model
+package com.alan.kotlinjson.api.model
 
 import SortingValues
 

@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">KotlinJson1</string>
+    <string name="app_name">Restaurants</string>
+    <string name="status">Status</string>
 </resources>
